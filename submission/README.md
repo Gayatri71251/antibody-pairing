@@ -1,6 +1,12 @@
 # Fantastic Four
 
-Our team is from ... and we think proteins are cool 🙌
+Fresh out of Master's program. Looking forward to tackling real world problems in Bioinformatics!
+
+Apoorva G
+G Gayatri
+Namrata Padmashali
+Tejashwini Alalamath
+
 
 ### Project Description
 We are working on the `antibody-pairing` challenge.
